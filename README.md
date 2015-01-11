@@ -1,2 +1,2 @@
 # OjJ
-Oj for JRuby
+Oj (Optimized JSON) for JRuby
